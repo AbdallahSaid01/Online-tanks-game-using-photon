@@ -10,4 +10,7 @@ the AI tanks replace the missing player tanks<br/><br/>
 The things I am planning to implement are:<br/>
 - A win/loss condition and screens
 - A health system with the health bar displayed above each individual tank except for the AI tanks since they are indistructable
-- Improving the AI of the AI tanks to be more deterministic and act based on the other players health and aquisition of power-ups
+- Improving the AI of the AI tanks to be more deterministic and act based on the other players health and aquisition of power-ups<br/><br/>
+Screenshots:<br/>
+![image](https://user-images.githubusercontent.com/59895483/189510731-bf89b0e1-a52b-427c-82fd-4e348af8a80f.png)
+![image](https://user-images.githubusercontent.com/59895483/189510740-43c3df81-4459-4556-b1a5-f55dc1d66c8e.png)
